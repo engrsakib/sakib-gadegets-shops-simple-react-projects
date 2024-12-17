@@ -66,7 +66,7 @@ const Navbar = () => {
               }
               to="/contact"
             >
-              Contact us
+              Contact
             </NavLink>
           </div>
           {/* cards items */}
